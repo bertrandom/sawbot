@@ -462,6 +462,9 @@
     "https://deno.land/x/deno_slack_sdk@1.6.0/types/types.ts": "8f402db92718cb06168f83a78677416fe44fde408a657da5c89451d4eb09f748",
     "https://deno.land/x/deno_slack_sdk@1.6.0/workflows/mod.ts": "96d3a5f441bab0896af2e5324bf0f84f551325aebaba22b2a4faa7de757023d9",
     "https://deno.land/x/deno_slack_sdk@1.6.0/workflows/types.ts": "e7ef57477d2b1b0221f5ca3b952af15ca7f0c873579d7e404ba53ade0697cd96",
-    "https://deno.land/x/deno_slack_sdk@1.6.0/workflows/workflow-step.ts": "130d956c3572a90fccca9d04e5e7fa1031fcd10b1fbc499d692be258feabe1ca"
+    "https://deno.land/x/deno_slack_sdk@1.6.0/workflows/workflow-step.ts": "130d956c3572a90fccca9d04e5e7fa1031fcd10b1fbc499d692be258feabe1ca",
+    "https://deno.land/x/gpt@1.5/bpe-vocab.ts": "18ebc4e698811e24f9cb04801485df91ad9a77460ae66447f1e9a4587a85ec23",
+    "https://deno.land/x/gpt@1.5/encoder.ts": "f2483f9d08b547941ede88070346d28914adc8951168194c328480318e89bd63",
+    "https://deno.land/x/gpt@1.5/mod.ts": "0af985d9130b0651f571ec7f577f4f1aedd8b8acd338f479a2b922b307f00bc4"
   }
 }

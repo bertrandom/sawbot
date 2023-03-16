@@ -19,9 +19,11 @@ Message Posted trigger will trigger on all messages posted to the channel specif
 
 App Mentioned trigger will trigger when the app is @mention in a channel specified in the trigger
 
-## TODO
+## Retention
 
-Currently the app doesn't have any memory, so follow up questions do not work. [Datastores](https://api.slack.com/future/datastores) should be used to cache the last X exchanges with ChatGPT per channel, while trying to keep the prompt under the token limit.
+The bot retains conversation history within the same channel. To clear its history and start from nothing:
+
+@sawbot clear all motor functions
 
 ## License
 
